@@ -91,7 +91,7 @@ def createNames(abc):
     abc.forward(200)
 
 #"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-            #This function is used to draw the for flower design    
+            #This function is used to draw the flower     
 def drawFlower(abc):
     abc.shape("classic")
     abc.color("#DE0CF5")
